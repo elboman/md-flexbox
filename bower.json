@@ -1,0 +1,25 @@
+{
+  "name": "md-flexbox",
+  "version": "0.1",
+  "homepage": "https://github.com/elboman/md-flexbox",
+  "authors": [
+    "elboman <marco.botto@gmail.com>"
+  ],
+  "description": "A stand-alone library for the Flexbox implementation by the Angular Material Dev team",
+  "main": "dist/flexbox.css",
+  "keywords": [
+    "Flexbox",
+    "Stand-alone",
+    "Angular",
+    "Material",
+    "Attributes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
